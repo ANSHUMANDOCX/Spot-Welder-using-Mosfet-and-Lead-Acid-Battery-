@@ -16,3 +16,13 @@ Also the timing of the circuit can be adjusted by changing the C11.
 <img width="1090" height="662" alt="Screenshot 2026-01-24 132355" src="https://github.com/user-attachments/assets/f71a1557-7d0a-483d-96aa-3e1e66a323ee" />
 <img width="614" height="388" alt="Screenshot 2026-01-24 161041" src="https://github.com/user-attachments/assets/471aac6a-f142-47e4-99b3-16317ff1b462" />
 
+# BOM 
+
+
+| Name                                                                                           | Qty | Vendor     | Price ($) |
+| ---------------------------------------------------------------------------------------------- | --- | ---------- | --------- |
+| ALL BOM parts mosfet,resistor capacitors etc  |  | LCSC | 14     |
+| Wires 12awg and 12 awg solid core                                                              | 1   | Robu       | 5      |
+|Lead acid Battery AMARON 12v 7ah |1|Amazon|15|
+|PCB||JLCPCB|5|
+|Total|||40|
