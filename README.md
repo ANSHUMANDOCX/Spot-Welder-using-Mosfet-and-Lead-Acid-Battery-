@@ -1,7 +1,11 @@
 # Spot-Welder-using-Mosfet-and-Lead-Acid-Battery
 ## Plan
 This board is designed for spot welding 18650 batteries with a 12v 7ah battery since these battery have a short circuit current of >300A so it can be used to spot weld nickel strips by delivering shot pulses of high current.
-
+## Why i made this 
+here in india good spot welders are very expensive and designing it myself allowed me to learn about gates and high current applications.
+## How to use 
+Its pretty simple to use we just need to connect the battery to the board using some high guage wires around 12-10AWG and connect them to 12AWG single core copper wire for putting the welding spots.
+Also the timing of the circuit can be adjusted by changing the C11.
 ## Parts Requried 
 - 12v 7Ah Lead acid battery
 - IRLB4132 Mosfet
