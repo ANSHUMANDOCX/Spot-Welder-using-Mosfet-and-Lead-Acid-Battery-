@@ -22,7 +22,8 @@ i will be using the metal tab of the mosfet as the drain and will be screwing it
 also i have made the GND trail to be unmasked since i need to tin i even more to allow more current.
 
 it was great learning oppurtunity for me since i didnt know how to create unmasked bare portions in Kicad so it took more time than usual 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk3NTgsInB1ciI6ImJsb2JfaWQifX0=--40eca047a08785d87d2e4184a47b67d2f391a160/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk3NTksInB1ciI6ImJsb2JfaWQifX0=--5515c239a55df140030b7d7b8013f16302641036/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk3NTgsInB1ciI6ImJsb2JfaWQifX0=--40eca047a08785d87d2e4184a47b67d2f391a160/image.png)
+<img width="614" height="388" alt="Screenshot 2026-01-24 161041" src="https://github.com/user-attachments/assets/3ca2d065-1f49-4782-91bc-e68b6d3eee6e" />
 
   
 
