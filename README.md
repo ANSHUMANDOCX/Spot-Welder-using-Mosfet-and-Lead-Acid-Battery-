@@ -19,10 +19,10 @@ Also the timing of the circuit can be adjusted by changing the C11.
 # BOM 
 
 
-| Name                                                                                           | Qty | Vendor     | Price ($) |
-| ---------------------------------------------------------------------------------------------- | --- | ---------- | --------- |
-| ALL BOM parts mosfet,resistor capacitors etc  |  | LCSC | 14     |
-| Wires 12awg and 12 awg solid core                                                              | 1   | Robu       | 5      |
-|Lead acid Battery AMARON 12v 7ah |1|Amazon|15|
-|PCB||JLCPCB|5|
-|Total|||40|
+| Name                                      | Qty | Vendor | Price ($) | Links |
+|-------------------------------------------|-----|--------|-----------|-------|
+| ALL BOM parts mosfet, resistor, capacitors etc |     | LCSC   | 14        |       |
+| Wires 12awg and 12 awg solid core         | 1   | Robu   | 5         | [Link 1](https://robu.in/product/sps-61t-250-jst-quick-terminal-rohs/)<br>[Link 2](https://robu.in/product/12awg-solid-core-insulated-wire-silicone-black/)<br>[Link 3](https://robu.in/product/high-quality-ultra-flexible-12awg-silicone-wire-black/)<br>[Link 4](https://robu.in/product/high-quality-ultra-flexible-12awg-silicone-wire-red/) |
+| Lead acid Battery AMARON 12v 7ah          | 1   | Amazon | 15        |https://www.amazon.in/Amaron-Quanta-12-AL-007/dp/B01D1JQO3I?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A20KWYYO0T79V8       |
+| PCB                                       |     | JLCPCB | 5         |       |
+| **Total**                                 |     |        | **40**    |       |
